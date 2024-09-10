@@ -1,10 +1,12 @@
 import './App.css'
+import Navigation from './component/Navigation'
+
 
 function App() {
 
   return (
     <>
-      <h1>hello  world</h1>
+      <Navigation/>
     </>
   )
 }
